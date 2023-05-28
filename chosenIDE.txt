@@ -1,0 +1,4 @@
+The IDE that I chose for Java is going to be eclipse. The reason that I chose eclipse over the other platforms immediately is because I already had experience
+using Eclipse from my previous Java course through Grand Canyon University. It is not entirely my favorite but it is what I am most comfortable with so far. 
+I have already learned how to create my projects and unit tests ect. through Eclipse and I don't necessarily have time within this class to experience another 
+learning curve. Therefore, I found it most efficient to just continue with Eclipse. 

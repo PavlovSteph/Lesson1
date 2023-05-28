@@ -1,0 +1,7 @@
+When it comes to Git/Github pages, I can use this resource to create a portfolio of my coding work to display to interviewers. Through Github, I have one place where
+I can upload all of my projects to one determined spot no matter what program it is. Ive used it for both C# and now Java and although it took a moment to get use to,
+Its efficient being able to upload straight from the IDE. 
+
+For example, if I was to be interviewed for a software development internship or position, I cannot simply just talk about my projects with nothing to show. Github
+makes it easy to share my portfolio with career professionals especially with a major that doesnt have a physical trail. Simply showing pictures is not enough 
+when it comes to software development (my major) and Github will greatly improve my chances of making a good mark on interviewers. 
