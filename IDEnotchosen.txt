@@ -1,1 +1,4 @@
-
+One of the IDEs that I did not choose was Android Studio. The reason that I did not choose this IDE is because layout is an important part for me when it comes 
+to an IDE. I want the layout to be easy to read and understand because I have my moments where having a lot on the screen can be overwhelming, which is why I 
+tend to enjoy spacious IDEs such as visual studio or visual studio code. Android Studio looked like it was providing much more than I needed for Java 
+and in general wouldnt be the most efficient platform for me. 
